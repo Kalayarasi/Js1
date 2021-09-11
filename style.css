@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    
+}
+fieldset{
+    background-color:rgb(233, 225, 120);
+    border: 2px solid rgb(123, 240, 205);
+    margin: 0% 10%;
+}
+h2{
+    color: rgb(196, 36, 148);
+    text-decoration: underline;
+}
+h3{
+    color: rgb(117, 19, 216);
+}
+p{
+    color: honeydew;
+    font-size: 18px;
+}
+button{
+    color: indigo;
+    background-color: palegreen;
+    padding: 8px;
+    border: 1px solid grey;
+    font-size: 18px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(45, 160, 0);
+}
